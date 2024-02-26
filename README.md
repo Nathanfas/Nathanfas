@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Nathan! 👋</h1>
+<h1 align="center">Hey there, I'm Nathan! 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/nathanfas/nathanfas/blob/main/assets/banner.png" alt="Nathan Banner" width="100%">
+  <img src="[https://github.com/nathanfas/nathanfas/blob/main/assets/banner.png](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)" alt="Nathan Banner" width="100%">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<h3 align="center">Passionate Full Stack Developer | Tech Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Passionate Full Stack Developer | Tech Enthusiast | </h3>
 
 🌱 I’m currently learning **ALX AICE**<br/>
 🔭 I’m currently working on [project_name]<br/>
