@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Nathan! 👋</h1>
 
 <p align="center">
-  <img src="[https://github.com/nathanfas/nathanfas/blob/main/assets/banner.png](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)" alt="Nathan Banner" width="100%">
+  <img src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png" alt="Nathan Banner" width="100%">
 </p>
 
 <p align="center">
