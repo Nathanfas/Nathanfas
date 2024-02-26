@@ -19,8 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/nathan-fasil-59a29b246" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="nathan__fasil" height="30" width="30" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/nathan__fasil" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathan__fasil" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathan__fasil" height="30" width="30" />
   </a>
 </p>
 
