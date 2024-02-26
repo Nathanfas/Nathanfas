@@ -1,4 +1,9 @@
-<h1 align="center">Hi there, I'm Nathan 👋</h1>
+<h1 align="center">Hi there, I'm Nathan! 👋</h1>
+
+<p align="center">
+  <img src="https://github.com/nathanfas/nathanfas/blob/main/assets/banner.png" alt="Nathan Banner" width="100%">
+</p>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=nathanfas" alt="nathanfas's trophies" />
